@@ -15,17 +15,17 @@ The server will be responsible for identifying offenders vehicles, choose the be
 Developer, designer, journalist, investors, everyone is so welcome.
 
  - join the discussions in [gitter](http://gitter.im)
- - create issues in [github](http://github.com)
- - send pull requests
+ - create issues in [github](https://github.com/trafficofficer)
+ - send pull requests in [github](https://github.com/trafficofficer)
  - sponsor issues in [bountysource](http://bountysource.com)
 
 The project is at the beginning, we are still defining what would be the MVP (Minimum Viable Product), choosing the library to discover images, choosing the language to API, we're starting with Android or iOS client, site creation, choice of name, etc. So right now what we need most is the participation of all in discussions with ideas, criticisms and suggestions.
 
 The github project is divided into:
 
- - client-android
- - client-ios
- - server-api
- - web-site
+ - [client-android](https://github.com/trafficofficer/client-android)
+ - [client-ios](https://github.com/trafficofficer/client-ios)
+ - [server-api](https://github.com/trafficofficer/server-api)
+ - [web-site](https://github.com/trafficofficer/web-site)
  
 ### Let's make a better world!
