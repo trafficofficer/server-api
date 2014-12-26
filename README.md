@@ -1,5 +1,6 @@
 Welcome to Traffic Officer
 ============================
+[![Bountysource](https://www.bountysource.com/badge/team?team_id=54082&style=bounties_posted)](https://www.bountysource.com/teams/trafficofficer/bounties?utm_source=Traffic%20Officer&utm_medium=shield&utm_campaign=bounties_posted)
  
 According to WHO (World Health Organization), over 1.2 million people die every year and over 50 million are injured in traffic, with the intention of reducing these numbers and the will to make the world a better place through technology, we created the Traffic Officer.
 
@@ -14,7 +15,7 @@ The server will be responsible for identifying offenders vehicles, choose the be
 
 Developer, designer, journalist, investors, everyone is so welcome.
 
- - join the discussions in [gitter](http://gitter.im)
+ - join the discussions in [gitter](https://gitter.im/trafficofficer)
  - create issues in [github](https://github.com/trafficofficer)
  - send pull requests in [github](https://github.com/trafficofficer)
  - sponsor issues in [bountysource](http://bountysource.com)
