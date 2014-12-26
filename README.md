@@ -18,7 +18,7 @@ Developer, designer, journalist, investors, everyone is so welcome.
  - join the discussions in [gitter](https://gitter.im/trafficofficer)
  - create issues in [github](https://github.com/trafficofficer)
  - send pull requests in [github](https://github.com/trafficofficer)
- - sponsor issues in [bountysource](http://bountysource.com)
+ - sponsor issues in [bountysource](https://www.bountysource.com/teams/trafficofficer/bounties?utm_source=Traffic%20Officer&utm_medium=shield&utm_campaign=bounties_posted)
 
 The project is at the beginning, we are still defining what would be the MVP (Minimum Viable Product), choosing the library to discover images, choosing the language to API, we're starting with Android or iOS client, site creation, choice of name, etc. So right now what we need most is the participation of all in discussions with ideas, criticisms and suggestions.
 
